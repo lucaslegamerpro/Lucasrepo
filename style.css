@@ -1,0 +1,37 @@
+<!-- style.css -->
+/* Simple style for all pages */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+h1 {
+  color: #333;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007BFF;
+}
+form {
+  margin-top: 20px;
+}
+form input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 300px;
+}
+form button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+form button:hover {
+  background-color: #0056b3;
+}
